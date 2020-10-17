@@ -13,4 +13,3 @@ module.exports = function check(str, bracketsConfig) {
 
     return arr.length === 0;
 }
-}
